@@ -13,6 +13,6 @@ The analysis is performed on the publicly available **FIFA 23 dataset**, which i
 
 ## Run
 To run this jupyter notebook in your local **env** sucessfully, please consider the below comands first:)
-python -m venv .venv
-source .venv/bin/activate # or activate.ps1 on Windows
-pip install -r requirements.txt
+* python -m venv .venv
+* source .venv/bin/activate # or activate.ps1 on Windows
+* pip install -r requirements.txt
