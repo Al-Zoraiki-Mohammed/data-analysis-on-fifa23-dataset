@@ -1,2 +1,12 @@
-# Data_Analysis_On_FIFA23_dataset
-In this notebook we  perform simple analysis on FIFA23 dataset using pandas in python , just for the seek of practicing and to have some intuition about  teams and players which considered very intersting for those who are crazy about football like me :)
+
+# ⚽ FIFA 23 Exploratory Data Analysis (EDA)
+
+##  Overview
+
+This repository contains a simple **Exploratory Data Analysis (EDA)** project focused on the **FIFA 23 dataset**.
+
+The primary goal of this project is to practice data manipulation and analysis using the **Python `pandas` library** and to uncover interesting insights about football teams and players—a perfect blend of data science practice and football passion!
+
+## Dataset
+
+The analysis is performed on the publicly available **FIFA 23 dataset**, which includes detailed attributes for thousands of players and their respective teams.
